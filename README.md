@@ -1,41 +1,34 @@
-<!-- Greetings -->
-<h2 align="center">Hey 👋 I'm <b>Mahan Tahmasebi</b></h2>
+<h2 align="center">Mahan Tahmasebi</h2>
 <p align="center">
-  Backend Developer • Python • Django • REST APIs
+  Backend Developer | Python & Django  
+  <br>Remote • Open to global opportunities
 </p>
 
 ---
 
-### 🧠 About Me
-I'm a backend developer specialized in **Django**, **Django REST Framework**, and scalable backend systems.  
-I enjoy designing clean architectures, asynchronous task handling with **Celery & Redis**, and scalable web APIs.
+### 🧠 About
+Backend developer focused on building scalable web applications with clean architecture and reliable code.  
+I enjoy turning complex logic into simple, maintainable systems using **Python** and **Django**.
 
-- 🌍 Based: Remote | Open to global opportunities  
-- 💼 Current Focus: High‑performance API design and microservices  
-- 🧰 Tech Stack: `Python`, `Django`, `DRF`, `Celery`, `Redis`, `PostgreSQL`, `Docker`  
-- 🧠 Learning: FastAPI, System Design, Cloud Deployment
+Currently developing a full-featured eCommerce platform as a portfolio project.
 
 ---
 
-### 🚀 Highlighted Projects
-| Project | Description |
-|----------|--------------|
-| 🏬 **django-shop** | Modular eCommerce platform built with Django |
-| 🔌 **django-shop-api** | RESTful backend powering the shop system |
-| ⚙️ **celery-redis-demo** | Asynchronous task handling example using Celery + Redis |
-| 💼 **portfolio-readme** | Personal portfolio & brand assets |
-  
-> 👉 Each repo contains documentation and setup guides.
+### ⚙️ Core Stack
+`Python` · `Django` · `Django REST Framework` · `Celery` · `Redis` · `PostgreSQL` · `Docker`
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/mahanth">LinkedIn</a> • 
-  <a href="mailto:your@email.com">Email</a> • 
-  <a href="#">Portfolio</a>
-</p>
+### 💼 Ongoing Project
+**E‑Commerce Platform (Personal Project)**  
+A complete online shop with custom admin panel — built using Django Templates and MySQL (still in progress).
 
 ---
 
-<p align="center">⭐️ Check out some of my projects below 👇</p>
+### 🌍 Connect
+[LinkedIn](https://linkedin.com/in/mahanth)  
+[Email](mailto:your@email.com)
+
+---
+
+<p align="center">Minimal • Clean • Professional</p>

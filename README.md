@@ -26,7 +26,7 @@ A complete online shop with custom admin panel — built using Django Templates 
 ---
 
 ### 🌍 Connect
-[LinkedIn](https://www.linkedin.com/in/mahan-thmasbi-832b68384)  
+[LinkedIn](https://www.linkedin.com/in/mahan-thmasbi/)  
 [Email](mahan.tahmasbi85@gmail.com)
 
 ---
